@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <b>Technologies</b>:React,React-router-dom, Styled-Components, React Hooks.
 
-SRFOOD is a React web page which you can found indormation about recipes.
+SRFOOD is a React web page which you can find information about recipes.
 
-<b>STARTING</b>: Go to repository folder and run yarn to install the modules and run the aplication <a href="#start">yarn start</a>
+<b>STARTING</b>: Go to repository folder and run yarn to install the modules and then run the application <b> yarn start </b>
 
  <img width="400" height="500" src="https://github.com/thailajf/-IMDB/blob/master/images/site.png"/>
 
