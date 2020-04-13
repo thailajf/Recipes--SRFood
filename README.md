@@ -11,7 +11,7 @@ SRFOOD is a React web page which you can find information about recipes.
 
  <img width="500" height="300" src="https://github.com/thailajf/Recipes--SRFood/blob/master/images/home.png"/>
 
- <img width="500" height="300" src="https://github.com/thailajf/Recipes--SRFood/blob/master/images/RecipePage.png"/>
+ <img width="400" height="500" src="https://github.com/thailajf/Recipes--SRFood/blob/master/images/RecipePage.png"/>
  
 
 
