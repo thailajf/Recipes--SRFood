@@ -9,9 +9,9 @@ SRFOOD is a React web page which you can find information about recipes.
 <b>STARTING</b>: Go to repository folder and run yarn to install the modules and then run the application <b> yarn start </b>
 
 
- <img width="500" height="500" src="https://github.com/thailajf/Recipes--SRFood/blob/master/images/home.png"/>
+ <img width="400" height="300" src="https://github.com/thailajf/Recipes--SRFood/blob/master/images/home.png"/>
 
- <img width="500" height="500" src="https://github.com/thailajf/Recipes--SRFood/blob/master/images/RecipePage.png"/>
+ <img width="400" height="300" src="https://github.com/thailajf/Recipes--SRFood/blob/master/images/RecipePage.png"/>
  
 
 
