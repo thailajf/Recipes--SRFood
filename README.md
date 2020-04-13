@@ -1,10 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# SRFOOD
+
+<b>Technologies</b>:React,React-router-dom, Styled-Components, React Hooks.
+
+SRFOOD is a React web page which you can found indormation about recipes.
+
+<b>STARTING</b>: Go to repository folder and run yarn to install the modules and run the aplication <a href="#start">yarn start</a>
+
+ <img width="400" height="500" src="https://github.com/thailajf/-IMDB/blob/master/images/site.png"/>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+###<div class="#start"> `yarn start`</div>
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
